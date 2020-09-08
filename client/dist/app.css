@@ -1,0 +1,27 @@
+body {
+  background-color: #02766b;
+  font-family: 'Courier New', Courier, monospace;
+  color: #194742;
+}
+
+header {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 2em;
+  padding: 35px 0px;
+  border-bottom: 3px solid;
+}
+
+#add-task {
+  margin: 30px auto;
+  width: 50%;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  color: #194742;
+  font-family: monospace;
+  font-size: 1.25em;
+  width: 100%;
+}
